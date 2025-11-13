@@ -173,13 +173,14 @@ Live Link:
 ## 👤 Author
 
 **Harish M Kumbar**
+
 🔗 GitHub: [https://github.com/harish07466](https://github.com/harish07466)
+
 🌐 Live App: [https://todo-list-dailygoals.netlify.app/](https://todo-list-dailygoals.netlify.app/)
 
 ---
 
+
 ## ⭐ Support
 
 If you like this project, please ⭐ **star the repository**!
-
-```
