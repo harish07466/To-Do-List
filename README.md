@@ -14,14 +14,18 @@ All tasks are saved automatically using **LocalStorage**, so they remain even af
 ## 📛 Badges
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
+
 ![Vite](https://img.shields.io/badge/Vite-Build-blueviolet?logo=vite)
+
 ![Netlify](https://img.shields.io/badge/Netlify-Deployed-success?logo=netlify)
+
 ![License](https://img.shields.io/badge/License-Open--Source-green)
+
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
 
-## 🧰 Tech Stack (with Logos)
+## 🧰 Tech Stack
 
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" />,
