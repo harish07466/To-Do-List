@@ -24,32 +24,9 @@ All tasks are automatically saved using **LocalStorage**, so your progress remai
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here)*  
-You can upload images like:  
-```
 <img width="1919" height="909" alt="Screenshot 2025-11-13 203247" src="https://github.com/user-attachments/assets/6e07b381-64d5-4eb8-a4f0-6d6a668e3a4f" />
 <img width="1919" height="913" alt="Screenshot 2025-11-13 203528" src="https://github.com/user-attachments/assets/270d4e20-0ee5-4cc2-8548-82f426e95f19" />
 <img width="1919" height="912" alt="Screenshot 2025-11-13 203400" src="https://github.com/user-attachments/assets/b06f871f-03f2-4377-95bf-2e54a506faba" />
-
-
-
-
-```
-
-Example:
-
-![App Screenshot](./screenshots/app-preview.png)
-
----
-
-## 🎥 Demo GIF (Optional)
-
-> *(Add a short recording of your app here)*  
-Example:
-
-![Demo GIF](./screenshots/demo.gif)
-
----
 
 ## ✨ Features
 
@@ -62,8 +39,6 @@ Example:
 - ⚡ **Fast build & reload using Vite**
 - 📱 Works on all screen sizes
 
----
-
 ## 🧩 Components Overview
 
 - **Form.jsx** → Handles new task input  
@@ -73,11 +48,8 @@ Example:
 - **Footer.jsx** → Task summary (Completed vs Total)  
 - **CSS Modules** → Component-scoped styling  
 
----
 
 ## 📁 Project Structure
-
-```
 
 src/
 ├── components/
@@ -97,10 +69,6 @@ src/
 public/
 vite.config.js
 
-````
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:**
@@ -108,11 +76,6 @@ vite.config.js
 - Vite  
 - JavaScript (ES6+)  
 - CSS Modules  
-
-**Deployment:**
-- Netlify (Continuous Deployment Ready)
-
----
 
 ## 🔧 Local Setup (Run the Project Locally)
 
