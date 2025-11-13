@@ -1,4 +1,3 @@
-```md
 # 📝 To-Do List App (React + Vite)
 
 A clean, fast, and user-friendly **To-Do List Application** built using **React + Vite**.  
