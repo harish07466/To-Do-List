@@ -38,7 +38,7 @@ All tasks are saved automatically using **LocalStorage**, so they remain even af
 
 ---
 
-## 📸 Screenshots (Grid Layout)
+## 📸 Screenshots
 
 <table>
   <tr>
